@@ -111,3 +111,4 @@ Specs are located in the [cypress/e2e] folder. They are the main test scenarios.
 ```
 
 ###  Mochawesome Report view:
+<img width="1437" alt="Screenshot 2024-03-04 at 11 23 56 PM" src="https://github.com/AslanAslan01/Playwright-Project/assets/128255111/96a1bf0f-a22b-4707-ad52-295b70cc290d">
