@@ -1,0 +1,15 @@
+{
+  "name": "cypress-nosh-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "specific-spec": "cypress run --spec cypress/e2e/cart-product-test.cy.js --browser=chrome --headed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.2",
+    "mochawesome": "^7.1.3"
+  }
+}
